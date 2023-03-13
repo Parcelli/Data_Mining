@@ -1,4 +1,7 @@
 # Data_Mining
-## Biodiversity loss
-Biodiversity loss refers to the decline in biological communities in a geographic location.Africa is home to 9 of 36 biodiversity hotspots in the world.
-## eDNA
+## Adoption of eDNA technique in Africa
+The main questions we seek to answer is :
+* What kind of eDNA techniques have been in use
+* What type of data is used 
+* What is the impact of eDNA method 
+* Research direction(way forward)
